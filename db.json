@@ -1,0 +1,37 @@
+{
+  "services": [
+    {
+      "title": "First service",
+      "time": "9:00 am",
+      "duration": "2 hours",
+      "language": "English"
+    },
+    {
+      "title": "Main service",
+      "time": "9:00 am",
+      "duration": "2 hours",
+      "language": "Kikuyu"
+    },
+    {
+      "id": 1,
+      "title": "Youth service",
+      "time": "9:00 am",
+      "duration": "2 hours",
+      "language": "Sheng"
+    },
+    {
+      "title": "Sunday School",
+      "time": "9:00 am",
+      "duration": "2 hours",
+      "language": "Kikuyu",
+      "id": 2
+    },
+    {
+      "title": "Sunday School",
+      "time": "9:00 am",
+      "duration": "2 hours",
+      "language": "Kikuyu",
+      "id": 3
+    }
+  ]
+}

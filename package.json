@@ -1,0 +1,29 @@
+{
+  "name": "restful_services",
+  "version": "1.0.0",
+  "description": "Interacting with REST api and its services.",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server": "json-server --watch db.json --port 5002"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredzTech/Restful_Services.git"
+  },
+  "author": "Alfred Githinji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredzTech/Restful_Services/issues"
+  },
+  "homepage": "https://github.com/FredzTech/Restful_Services#readme",
+  "devDependencies": {
+    "axios": "^0.24.0",
+    "json-server": "^0.17.0",
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
